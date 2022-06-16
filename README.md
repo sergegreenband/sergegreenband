@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sergegreenband
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java projects
+- 👀 I’m interested in SalesForce/Java/C#
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me ...
 
 <!---
